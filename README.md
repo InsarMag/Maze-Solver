@@ -1,7 +1,7 @@
 # Maze-Solver
 API in C for finding optimal path through the maze
 
-Use MAKE to complie all of the files
+Use Makefile to complie all of the files
 
 Using recursion it checks all possible ways to get from start to finish
 
